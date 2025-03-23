@@ -1,23 +1,41 @@
 {
   "commands": [
+    // Move 1
     "clear A8",
+    // Move 2
     "clear A1",
     "clear H1",
     "clear H8",
+    // Move 3
     "flag E3",
     "flag G3",
     "clear F3",
     "clear H3",
+    // Move 4
     "flag H4",
     "clear E4",
     "clear F4",
     "clear G4",
+    // Move 5
     "clear D3",
     "clear D4",
     "clear D5",
     "clear E5",
     "clear F5",
     "clear G5",
-    "clear H5"
+    "clear H5",
+    // Move 6
+    "flag A2",
+    "flag A7",
+    "flag B2",
+    "flag C1",
+    "flag C8",
+    "flag E8",
+    "clear B1",
+    "clear B8",
+    "clear B8",
+    "clear C2",
+    "clear D8",
+    "clear F8"
   ]
 }
